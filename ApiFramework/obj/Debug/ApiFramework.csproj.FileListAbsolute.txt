@@ -1,0 +1,15 @@
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\ApiFramework.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\ApiFramework.pdb
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\nunit.framework.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\nunit.framework.xml
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.csproj.CoreCompileInputs.cache
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.dll
+c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.pdb
+C:\Users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.csprojResolveAssemblyReference.cache
