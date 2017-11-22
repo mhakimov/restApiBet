@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="Drafts.cs" />
     <Compile Include="Objects\Category.cs" />
+    <Compile Include="Tests\BaseTest.cs" />
     <Compile Include="Tests\GetGroup.cs" />
     <Compile Include="Tests\GetEvents.cs" />
     <Compile Include="Objects\Event.cs" />

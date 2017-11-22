@@ -12,4 +12,3 @@ c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\bin\Debug\nunit.framewo
 c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.csproj.CoreCompileInputs.cache
 c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.dll
 c:\users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.pdb
-C:\Users\mhakimov\source\repos\ApiFramework\ApiFramework\obj\Debug\ApiFramework.csprojResolveAssemblyReference.cache
